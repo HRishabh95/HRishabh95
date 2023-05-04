@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ricky
-- 👀 I’m interested in Machine learning, Speech processing, Latin Dancing ;)
+- 👀 I’m interested in Machine learning, Speech processing and NLP
 - 🌱 I’m currently learning Information Retrieval, Neural IR
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me r.upadhyay@campus.unimib.it
